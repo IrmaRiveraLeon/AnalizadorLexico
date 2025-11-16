@@ -1,0 +1,2 @@
+/* Comentario para ser eliminado u omitido */
+float y = 3.14;
